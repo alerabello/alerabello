@@ -7,6 +7,7 @@ Busco solucionar problemas para cenários Cloud da melhor forma, entregando apli
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrerabellosantana/)
 
 
+
 ### Skills:
 
 <div style="display: inline_block"><br/>
@@ -15,3 +16,9 @@ Busco solucionar problemas para cenários Cloud da melhor forma, entregando apli
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alerabello&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=tokyonight&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=blue-green"/>
+</div>
