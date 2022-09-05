@@ -18,6 +18,7 @@ Busco solucionar problemas para cenários Cloud da melhor forma, entregando apli
   <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img align="center" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-0747a6?style=for-the-badge&logo=jenkins&logoColor=white" />
 
 ## S.O:
 <div style="display: inline_block"><br/>
