@@ -1,5 +1,3 @@
-# Alexandre Rabello - DevOps Aws
-
 Olá! Sou Alexandre Rabello, um entusiasta de tecnologia com mais de 4 ano de experiência em infraestrutura, focado em construir uma carreira DevOps com conhecimento multi-cloud nas principais plataformas, como AWS e Azure. Estou comprometido em solucionar problemas para cenários de nuvem, entregando aplicações de alto desempenho e escalabilidade.
 
 ## Contatos:
