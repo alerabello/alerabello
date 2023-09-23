@@ -1,4 +1,5 @@
-Olá! Sou Alexandre Rabello, um entusiasta de tecnologia com mais de 4 anos de experiência em infraestrutura, focado em construir uma carreira DevOps com conhecimento multi-cloud nas principais plataformas, como AWS, Azure e GCP. Estou comprometido em solucionar problemas para cenários de nuvem, entregando aplicações de alto desempenho e escalabilidade.
+### Olá! Sou Alexandre Rabello, 👋 
+Um entusiasta de tecnologia com mais de 4 anos de experiência em infraestrutura, focado em construir uma carreira DevOps com conhecimento multi-cloud nas principais plataformas, como AWS, Azure e GCP. Estou comprometido em solucionar problemas para cenários de nuvem, entregando aplicações de alto desempenho e escalabilidade.
 
 ## Contatos:
 
@@ -44,3 +45,6 @@ Olá! Sou Alexandre Rabello, um entusiasta de tecnologia com mais de 4 anos de e
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=tokyonight&layout=compact)
 
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para dizer olá! Vamos construir coisas incríveis juntos. 😊
+
+![](https://komarev.com/ghpvc/?username=alerabello&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=42966276)
