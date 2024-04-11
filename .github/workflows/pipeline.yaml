@@ -1,0 +1,14 @@
+name: GitHub Readme update
+on:
+  schedule:    
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Badges
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: alexandrerabello

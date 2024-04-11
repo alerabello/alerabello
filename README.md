@@ -35,7 +35,18 @@ Um entusiasta de tecnologia com mais de 4 anos de experiência em infraestrutura
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 </br>
+### 🎓 Certifications
 
+<!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/041e6876-dd24-4373-85fc-6ed28da57582 "AWS Certified Cloud Practitioner")
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](https://www.credly.com/badges/e4e5dca1-d625-485d-9f88-28d29e1dccf7 "AWS Knowledge: Amazon EKS")
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](b32f5017-5b4d-4289-b7a1-59475e978287 "AWS Knowledge: Architecting")
+[![AWS Educate Machine Learning Foundations](https://images.credly.com/size/110x110/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png)](22cc03ff-4ef8-44a9-bcbc-7681eb4b1541 "AWS Educate Machine Learning Foundations")
+[![IBM Cloud Technical Advocate Foundations](https://images.credly.com/size/110x110/images/9aa6ef9a-944e-4bb2-be40-ec142ef2627a/image.png)](d0e6e879-55e5-4010-8695-af597dbdd165 "IBM Cloud Technical Advocate Foundations")
+<!--END_SECTION:badges-->
+
+
+</br>
 ## Expertise in Cloud Computing (AWS):
 
 - Cloud Solution Architecture
