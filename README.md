@@ -35,6 +35,7 @@ Um entusiasta de tecnologia com mais de 4 anos de experiência em infraestrutura
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 </br>
+
 ### 🎓 Certifications
 
 <!--START_SECTION:badges-->
