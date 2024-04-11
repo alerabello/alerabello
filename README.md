@@ -48,6 +48,7 @@ Um entusiasta de tecnologia com mais de 4 anos de experiência em infraestrutura
 
 
 </br>
+
 ## Expertise in Cloud Computing (AWS):
 
 - Cloud Solution Architecture
