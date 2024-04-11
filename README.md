@@ -1,5 +1,7 @@
-### Olá! Sou Alexandre Rabello, 👋 
-Um entusiasta de tecnologia com mais de 4 anos de experiência em infraestrutura, focado em construir uma carreira DevOps com conhecimento multi-cloud nas principais plataformas, como AWS, Azure e GCP. Estou comprometido em solucionar problemas para cenários de nuvem, entregando aplicações de alto desempenho e escalabilidade.
+### Hello, welcome!
+
+I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastructure with over +3 years of experience. As an AWS Certified Cloud Practitioner, my mission is to facilitate the efficient transition of resources to cloud environments, from conception to the administration and monitoring of services on AWS, following industry best practices.
+
 
 ## Contatos:
 
