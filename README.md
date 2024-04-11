@@ -3,11 +3,9 @@
 I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastructure with over +3 years of experience. As an AWS Certified Cloud Practitioner, my mission is to facilitate the efficient transition of resources to cloud environments, from conception to the administration and monitoring of services on AWS, following industry best practices.
 
 
-## Contatos:
+## Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrerabellosantana/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-nome-de-usuário-do-twitter)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alexandrerabello)
 [![WEBSITE](https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=website&logoColor=white)](https://alexandrerabello.com/)
 
 ### ☁️ Clouds 
@@ -60,12 +58,12 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 - Container Orchestration (Kubernetes, ECS, Docker)
 - Infrastructure as Code (Terraform, CloudFormation)
 
-## Estatísticas do GitHub:
+## GitHub Stats:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alerabello&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=tokyonight&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alerabello&show_icons=true&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=tokyonight&layout=compact)
 
-Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para dizer olá! Vamos construir coisas incríveis juntos. 😊
+Please feel free to contact me for discussions, collaborations or just to say hello! Let's build incredible things together.😊
 
 ![](https://komarev.com/ghpvc/?username=alerabello&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=42966276)
