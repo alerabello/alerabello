@@ -10,10 +10,10 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 
 ### ☁️ Clouds 
 
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" />
-<img align="left" alt="IBM " width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/ibm-icon-2048x2048-7u4vxdv9.png" />
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="GCP" width="50px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" />
+<img align="left" alt="IBM " width="50px" style="padding-right:10px;" src="https://cdn2.downdetector.com/static/uploads/logo/ibm-cloud.png" />
 
 
 </br>
