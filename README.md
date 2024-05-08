@@ -39,6 +39,7 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 ### 🎓 Certifications
 
 <!--START_SECTION:badges-->
+[![AWS Partner: Generative AI Essentials (Business)](https://images.credly.com/size/110x110/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png)](http://www.credly.com/badges/f87e7cb4-8808-4c89-8d94-83e49ba11372 "AWS Partner: Generative AI Essentials (Business)")
 [![IBM Cloud Technical Advocate Concepts V2](https://images.credly.com/size/110x110/images/ccac265b-cc07-4168-82ba-af81f7bc5a0d/image.png)](http://www.credly.com/badges/c67ca61b-8098-47d3-a857-614b5cce1e27 "IBM Cloud Technical Advocate Concepts V2")
 [![IBM Cloud Technical Advocate Foundations V2](https://images.credly.com/size/110x110/images/9aa6ef9a-944e-4bb2-be40-ec142ef2627a/image.png)](http://www.credly.com/badges/d0e6e879-55e5-4010-8695-af597dbdd165 "IBM Cloud Technical Advocate Foundations V2")
 [![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/e4e5dca1-d625-485d-9f88-28d29e1dccf7 "AWS Knowledge: Amazon EKS")
