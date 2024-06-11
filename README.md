@@ -40,7 +40,7 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 ### 🎓 Certifications
 
 <!--START_SECTION:badges-->
-[![AWS Partner: Generative AI Essentials (Business)](https://images.credly.com/size/110x110/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png)](http://www.credly.com/badges/f87e7cb4-8808-4c89-8d94-83e49ba11372 "AWS Partner: Generative AI Essentials (Business)")
+[![AWS Partner: Generative AI Essentials](https://images.credly.com/size/110x110/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png)](http://www.credly.com/badges/f87e7cb4-8808-4c89-8d94-83e49ba11372 "AWS Partner: Generative AI Essentials")
 [![IBM Cloud Technical Advocate Concepts V2](https://images.credly.com/size/110x110/images/ccac265b-cc07-4168-82ba-af81f7bc5a0d/image.png)](http://www.credly.com/badges/c67ca61b-8098-47d3-a857-614b5cce1e27 "IBM Cloud Technical Advocate Concepts V2")
 [![IBM Cloud Technical Advocate Foundations V2](https://images.credly.com/size/110x110/images/9aa6ef9a-944e-4bb2-be40-ec142ef2627a/image.png)](http://www.credly.com/badges/d0e6e879-55e5-4010-8695-af597dbdd165 "IBM Cloud Technical Advocate Foundations V2")
 [![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/e4e5dca1-d625-485d-9f88-28d29e1dccf7 "AWS Knowledge: Amazon EKS")
@@ -53,8 +53,8 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 [![AWS General Immersion Day Participant](https://images.credly.com/size/110x110/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png)](http://www.credly.com/badges/54967dc6-fd6c-4d51-8b28-bacfedc5a55c "AWS General Immersion Day Participant")
 [![AWS Partner: SAP on AWS (Technical)](https://images.credly.com/size/110x110/images/6099a08b-d18c-4f36-ad4e-b519c58eb0f1/image.png)](http://www.credly.com/badges/d7baa749-70e4-4518-a44d-47460361a0c6 "AWS Partner: SAP on AWS (Technical)")
 [![Migration Ambassador Foundations (Business) 2022](https://images.credly.com/size/110x110/images/c2a04bd2-62d5-4b12-9188-5280fa77e5d6/image.png)](http://www.credly.com/badges/586ca0fa-145b-4cfe-abbf-198fc30c4a71 "Migration Ambassador Foundations (Business) 2022")
-[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/6c09d82e-d755-4cc1-a821-ab85ba2b4fdc "AWS Partner: Cloud Economics Accreditation")
-[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/c19bb4a4-769b-4803-ab30-6362c64851b0 "AWS Partner: Accreditation (Technical)")
+[![AWS Partner: Cloud Economics Essentials](https://images.credly.com/size/110x110/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png)](http://www.credly.com/badges/6c09d82e-d755-4cc1-a821-ab85ba2b4fdc "AWS Partner: Cloud Economics Essentials")
+[![AWS Partner: Technical Accredited](https://images.credly.com/size/110x110/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)](http://www.credly.com/badges/c19bb4a4-769b-4803-ab30-6362c64851b0 "AWS Partner: Technical Accredited")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/041e6876-dd24-4373-85fc-6ed28da57582 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
