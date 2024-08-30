@@ -40,6 +40,7 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 ### 🎓 Certifications
 
 <!--START_SECTION:badges-->
+[![Guardium Data Protection for Technical Sales Advanced](https://images.credly.com/size/110x110/images/8b575ccc-51d1-45d4-a387-a8fa64c5a602/image.png)](http://www.credly.com/badges/87186537-75f8-4864-b8b5-3b579d27f901 "Guardium Data Protection for Technical Sales Advanced")
 [![Guardium Data Protection Technical Sales Intermediate](https://images.credly.com/size/110x110/images/9641c8c5-4fdc-47ee-8db7-5fed71cb2b0c/image.png)](http://www.credly.com/badges/7a184dc4-295f-4fee-affe-ce7c54873107 "Guardium Data Protection Technical Sales Intermediate")
 [![IBM Cloud Professional Architect Concepts V2](https://images.credly.com/size/110x110/images/ced08a13-b696-42fb-910d-0a5f7abb2e68/image.png)](http://www.credly.com/badges/548e84d3-f780-46c4-a1e1-768080b34342 "IBM Cloud Professional Architect Concepts V2")
 [![Copilot for Microsoft 365 Technical Champion](https://images.credly.com/size/110x110/images/13c2692d-46f7-4728-a5b4-dff3d58dc227/image.png)](http://www.credly.com/badges/a4c70b53-064d-49fa-90d3-2a611a8b7393 "Copilot for Microsoft 365 Technical Champion")
