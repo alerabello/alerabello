@@ -7,7 +7,7 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 ### Cloud Infrastructure & DevOps
 - **Cloud Architecture and Solutions**: Development of robust architectures in AWS, Azure, and IBM Cloud, always focusing on scalability and security.
 - **Container Orchestration**: Experience with Kubernetes, ECS, and Docker to ensure a scalable and resilient infrastructure.
-- **CI/CD Pipelines**: Integration and automation of processes with tools like GitLab, Jenkins, Terraform, and Azure DevOps to deliver consistent and fast deployments.
+- **CI/CD Pipelines**: Integration and automation of processes with tools like Github, Github Actions, GitLab, Jenkins, Terraform, and Azure DevOps to deliver consistent and fast deployments.
 - **Monitoring and Observability**: Implementation of proactive monitoring strategies using tools like Grafana.
 - **Scripting and Automation**: Solid scripting skills (Shell, Python, and Bash) for task automation and process optimization.
 
