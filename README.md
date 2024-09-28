@@ -2,6 +2,18 @@
 
 I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastructure with over +5 years of experience. As an AWS Certified Cloud Practitioner, my mission is to facilitate the efficient transition of resources to cloud environments, from conception to the administration and monitoring of services on AWS, following industry best practices.
 
+## Expertise
+
+### Cloud Infrastructure & DevOps
+- **Cloud Architecture and Solutions**: Development of robust architectures in AWS, Azure, and IBM Cloud, always focusing on scalability and security.
+- **Container Orchestration**: Experience with Kubernetes, ECS, and Docker to ensure a scalable and resilient infrastructure.
+- **CI/CD Pipelines**: Integration and automation of processes with tools like GitLab, Jenkins, Terraform, and Azure DevOps to deliver consistent and fast deployments.
+- **Monitoring and Observability**: Implementation of proactive monitoring strategies using tools like Grafana.
+- **Scripting and Automation**: Solid scripting skills (Shell, Python, and Bash) for task automation and process optimization.
+
+### FinOps & Cloud Optimization
+- Experience in **FinOps**, optimizing costs and migrating workloads to **AWS** following the **Well-Architected Framework**.
+- Experience in cost and performance monitoring, ensuring efficient and controlled operations.
 
 ## Contacts:
 
