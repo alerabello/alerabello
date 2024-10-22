@@ -53,7 +53,7 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 
 <!--START_SECTION:badges-->
 [![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob)](http://www.credly.com/badges/8a21667b-bdc1-4f24-be1f-fd26c086a7a4 "Scrum Foundation Professional Certification - SFPC™")
-[![Lifelong Learning !](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/ae782f1b-662b-4a7a-bfe7-b4bdc19b5c9e "Lifelong Learning !")
+[![Lifelong Learning](https://images.credly.com/size/110x110/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](http://www.credly.com/badges/ae782f1b-662b-4a7a-bfe7-b4bdc19b5c9e "Lifelong Learning")
 [![Guardium Data Protection for Technical Sales Advanced](https://images.credly.com/size/110x110/images/8b575ccc-51d1-45d4-a387-a8fa64c5a602/image.png)](http://www.credly.com/badges/87186537-75f8-4864-b8b5-3b579d27f901 "Guardium Data Protection for Technical Sales Advanced")
 [![Guardium Data Protection Technical Sales Intermediate](https://images.credly.com/size/110x110/images/9641c8c5-4fdc-47ee-8db7-5fed71cb2b0c/image.png)](http://www.credly.com/badges/7a184dc4-295f-4fee-affe-ce7c54873107 "Guardium Data Protection Technical Sales Intermediate")
 [![IBM Cloud Professional Architect Concepts V2](https://images.credly.com/size/110x110/images/ced08a13-b696-42fb-910d-0a5f7abb2e68/image.png)](http://www.credly.com/badges/548e84d3-f780-46c4-a1e1-768080b34342 "IBM Cloud Professional Architect Concepts V2")
