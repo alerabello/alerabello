@@ -91,8 +91,8 @@ I'm Alexandre Rabello, a dedicated professional in the field of cloud infrastruc
 
 ## GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alerabello&show_icons=true&theme=tokyonight)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=tokyonight&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alerabello&show_icons=true&theme=tokyonight)](https://github.com/alerabello)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alerabello&theme=tokyonight&layout=compact)](https://github.com/alerabello)
 
 Please feel free to contact me for discussions, collaborations or just to say hello! Let's build incredible things together.😊
 
